@@ -1,5 +1,6 @@
 DevOps Fundamentals Accelerator
 ==============================
+![screenshot](Screenshot/screenshot.jpg)
 
 🚀 1-hour intensive course covering core DevOps concepts, tools, and workflows.
 Certified by MTF Institute of Management, Technology and Finance
